@@ -1,1 +1,14 @@
-Tanamyaasdsadsdf
+class Practical{
+public void run(){
+
+system.out print("Hellow World")
+
+}
+class Demo extends Practical {
+
+public static void main(string[] args){
+system.out.println("HEllo world");
+Demo d=new Demo();
+d.run;
+
+}
